@@ -1,0 +1,22 @@
+THIRD-PARTY NOTICES
+===================
+
+Malmars Local Print Station is built with CPython and PyInstaller. The frozen
+Windows executable includes the Python runtime and PyInstaller bootloader.
+The accompanying package includes their license texts in the LICENSES
+folder:
+
+  Python Software Foundation License
+    LICENSES/Python-LICENSE.txt
+    https://docs.python.org/3/license.html
+
+  PyInstaller license (GPL with its bootloader exception)
+    LICENSES/PyInstaller-COPYING.txt
+    https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt
+
+OrcaSlicer and Flashforge Studio are not included or modified. They must be
+installed separately and remain under their respective publishers'
+licences. This package does not redistribute their code.
+
+The app's printer connection uses the printer's local-network protocol.
+No AI weights, cloud service, analytics or telemetry are included.
