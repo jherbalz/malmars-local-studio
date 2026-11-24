@@ -54,6 +54,15 @@ beta@jherbalz.studio.
   person's setup gets known to work.
 - A say in the roadmap. The changelog is public and issues are triaged.
 
+## Download the free Print Station beta
+
+[free-beta-1.5.5.zip](https://github.com/jherbalz/malmars-local-studio/releases/download/free-beta-1.5.5/free-beta-1.5.5.zip)` - the free Print Station for Windows, 11 MB.
+
+Unzip it anywhere, double-click `START_PRINT_STATION.cmd`, and it opens at http://127.0.0.1:8779/ on that PC only.
+No account, no cloud, no telemetry, no internet upload. The printer is contacted on your local network only, and the app never sends or starts a print job: it opens the model in your own slicer so you can look at it first.
+
+The source of the same thing is in `print_station/` below, and the terms are in `LICENSE.md`.
+
 ## What is here
 
 - `print_station/` - the free Print Station source. Slicer detection,

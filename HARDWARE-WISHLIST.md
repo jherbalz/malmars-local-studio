@@ -11,7 +11,7 @@ that unblock the work, and what each one unlocks.
 
 ## How to donate or lend one
 
-Open an issue on this repo, or email beta@jherbalz.studio.
+Open an issue on this repo. Issues are the live channel; the email address arrives with the site, which is not registered yet.
 
 What you get back:
 
